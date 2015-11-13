@@ -13,4 +13,4 @@ xcuserdata
 DerivedData
 *.hmap
 *.ipa
-*.xcuserstate
+/xcuserstate
